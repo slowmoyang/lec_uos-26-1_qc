@@ -11,4 +11,5 @@ dependencies = [
     "qiskit>=2.3.0",
     "qiskit-aer>=0.17.2",
     "qiskit-ibm-runtime>=0.45.1",
+    "seaborn>=0.13.2",
 ]
