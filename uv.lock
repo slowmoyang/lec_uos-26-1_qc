@@ -1021,7 +1021,7 @@ wheels = [
 ]
 
 [[package]]
-name = "lec-qc-uos-26-1"
+name = "lec-uos-26-1-qc"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
